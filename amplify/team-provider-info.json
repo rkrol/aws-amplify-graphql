@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-amplify-graphql-20181126225022-authRole",
+            "UnauthRoleArn": "arn:aws:iam::398142600061:role/aws-amplify-graphql-20181126225022-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::398142600061:role/aws-amplify-graphql-20181126225022-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "aws-amplify-graphql-20181126225022-deployment",
+            "UnauthRoleName": "aws-amplify-graphql-20181126225022-unauthRole",
+            "StackName": "aws-amplify-graphql-20181126225022",
+            "StackId": "arn:aws:cloudformation:eu-west-1:398142600061:stack/aws-amplify-graphql-20181126225022/35b02df0-f1c5-11e8-8f7e-0a4189c8dbd8"
+        },
+        "categories": {
+            "auth": {
+                "cognito5926fc7f": {}
+            }
+        }
+    }
+}

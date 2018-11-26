@@ -1,0 +1,9 @@
+{
+    "AppSyncApiName": "awsAmplifyGraphqlApi",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito5926fc7f",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
